@@ -21,9 +21,6 @@
 
 
   <!-- Backend -->
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=NumPy&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
@@ -32,7 +29,7 @@
 ---
 
 ### 🌟 **About Me**  
-- 💡 Full Stack Developer & AI/ML Enthusiast  
+- 💡 Full Stack Developer  
 - 🚀 Passionate about building fast, scalable web apps and data-driven projects  
 - 🔍 Writing clean, efficient, and optimized code  
 - 🎯 Continuously learning new technologies  
