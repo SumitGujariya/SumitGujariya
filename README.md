@@ -6,7 +6,7 @@
 </p>
 
 
-<h3 align="center">💻 Turning Ideas Into Code | Full Stack & AI/ML Enthusiast</h3>
+<h3 align="center">💻 Turning Ideas Into Code </h3>
 
 ---
 
