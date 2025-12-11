@@ -38,16 +38,15 @@
 
 ### 📊 **GitHub Stats**  
 
-<p align="center">
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=SumitGujariya&show_icons=true&theme=radical" height="150" alt="Sumit's GitHub stats" />
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SumitGujariya&layout=compact&theme=radical" height="150" alt="Top languages" />
-  <!-- Streak -->
-  <img src="https://streak-stats.demolab.com?user=SumitGujariya&theme=react&hide_border=false" height="150" alt="GitHub Streak" />
-</p>
-
-
+<div align="center">
+<a href="https://git.io/streak-stats" target="_blank">
+  <img 
+       src="https://streak-stats.demolab.com?user=SumitGujariya&theme=default&hide_border=true" 
+       alt="GitHub Streak" 
+       height="150"
+  />
+</a>
+</div>
 
 ---
 
